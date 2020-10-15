@@ -1,0 +1,2 @@
+- name: Chrome extension upload action
+  uses: mnao305/chrome-extension-upload@1.1.0
